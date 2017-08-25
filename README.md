@@ -1,6 +1,10 @@
 # LoginPage-Bootstrap
 Simple login page using Twitter-Bootstrap framework
 
+You can run it using this link:
+https://rawgit.com/Gerfier/LoginPage-Bootstrap/master/index.html
+
+
 //This project was created using Bootstrap framework (HTML, CSS, Javascript)
 The javascript file contains testing user info.
 Has a saved "username,email, password" that if entered correctly will promt a success message otherwise and error message.
